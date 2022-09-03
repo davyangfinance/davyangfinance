@@ -13,18 +13,18 @@ Introduction goes here!!
 
 
 Research Interests
-======
+------
 
 
 Contact
-======
+------
 yiliyang [at] cityu.edu.hk
 
 CV
-======
+------
 
 Teaching
-======
-Security Analysis and Portfolio Management
+------
+*Security Analysis and Portfolio Management
 
- Asset Management
+*Asset Management
