@@ -25,6 +25,6 @@ CV
 
 Teaching
 ------
-*Security Analysis and Portfolio Management
+* Security Analysis and Portfolio Management
 
-*Asset Management
+* Asset Management
